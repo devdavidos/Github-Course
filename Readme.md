@@ -1,5 +1,1 @@
-/ Git-Course /
-
-# Curso de Git e Github do Willian Justin #
-
-# Adicionando LOG #
+# Lista de Exercícios feitos em JavaScript!
